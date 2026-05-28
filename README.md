@@ -3,7 +3,8 @@ The code I did as a junior during AP Computer Science Principles.
 This is my Python portfolio. It consists of the projects I created as a junior during AP Computer Science Principles.
 
 Some of the files you will find:
-Project 1: To-Do List App
+
+###Project 1: To-Do List App
 Summary: This program allows users to create and manage a daily to-do list, helping them stay organized and keep track of essential tasks throughout the day.
 Key Features:
 
@@ -13,7 +14,7 @@ Provides a clean, user-friendly interface for managing a list of items.
 
 Automatically updates to reflect the user's current schedule.
 
-Project 2: Hogwarts House Sorting Hat
+###Project 2: Hogwarts House Sorting Hat
 Summary: This program simulates the magical Hogwarts Sorting Hat experience by prompting users for their name and assigning them to one of the four iconic wizarding houses.
 Key Features:
 
@@ -23,7 +24,7 @@ Simulates a randomized or logic-based assignment to Gryffindor, Hufflepuff, Rave
 
 Delivers a personalized and engaging output message for the user.
 
-Project 3: Rollercoaster Matchmaker
+###Project 3: Rollercoaster Matchmaker
 Summary: This program helps users find their ideal rollercoaster ride by analyzing their personal preferences and thrill-seeking comfort levels.
 Key Features:
 
@@ -33,7 +34,7 @@ Filters and matches user inputs against a database of rollercoasters.
 
 Generates a personalized recommendation based on user criteria.
 
-Project 4: Dog Breed Selector
+###Project 4: Dog Breed Selector
 Summary: The purpose of this program is to help users find the perfect canine companion by matching their lifestyle and needs with specific dog breed characteristics.
 Key Features:
 
@@ -43,7 +44,7 @@ Evaluates breed data to find the best matches for the user's environment.
 
 Simplifies the decision-making process for prospective dog owners.
 
-Project 5: Social Media Influencer Data Analyzer
+###Project 5: Social Media Influencer Data Analyzer
 Summary: This program analyzes social media datasets to uncover hidden trends, engagement metrics, and stories behind influencer data.
 Key Features:
 
